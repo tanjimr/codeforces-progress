@@ -1,6 +1,6 @@
 // althogh it can be done easily but i dont know the syntax which i will lean now
-
-public class 1703A {
+import java.util.Scanner;
+public class cf1703A {
     public static void main(String[] args)
     {
 
