@@ -31,9 +31,6 @@ public class cf1829A {
     
     }
 
-     
-    
-
     }
     
 }

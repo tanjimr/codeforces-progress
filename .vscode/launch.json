@@ -2,27 +2,6 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "java",
-      "name": "cf1829A",
-      "request": "launch",
-      "mainClass": "cf1829A",
-      "projectName": "codeforces-progress_1d28f6d3"
-    },
-    {
-      "type": "java",
-      "name": "cf996A",
-      "request": "launch",
-      "mainClass": "cf996A",
-      "projectName": "codeforces-progress_1d28f6d3"
-    },
-    {
-      "type": "java",
-      "name": "cf1703A",
-      "request": "launch",
-      "mainClass": "cf1703A",
-      "projectName": "codeforces-progress_1d28f6d3"
-    },
-    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
