@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "cf318A",
+      "request": "launch",
+      "mainClass": "cf318A",
+      "projectName": "codeforces-progress_b7f0c91f"
+    },
+    {
+      "type": "java",
+      "name": "cf58A",
+      "request": "launch",
+      "mainClass": "cf58A",
+      "projectName": "codeforces-progress_b7f0c91f"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",

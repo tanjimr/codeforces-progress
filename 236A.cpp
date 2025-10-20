@@ -24,7 +24,7 @@ int main()
 
         }
         }
-        num +=name[i];rg
+        num +=name[i];
     }
     int r= num.length();
 
