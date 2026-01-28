@@ -1,4 +1,4 @@
-import java.util.Scanner;
+5import java.util.Scanner;
 public class cf996A {
     public static void main(String[] args)
     {
